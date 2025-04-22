@@ -4,7 +4,7 @@
     * application quality
     * continous monitoring or observability
     * continous testing
-These are the ```4 pillers of Devops```
+* These are the ```4 pillers of Devops```
 
 ---
 ### Why Devops ?
