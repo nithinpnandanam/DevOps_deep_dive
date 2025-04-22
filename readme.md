@@ -1,9 +1,9 @@
 # What is Devops ?
 * it is a  process of improving the application delivery by ensuring 
-    1) proper automation
-    2) application quality
-    3) continous monitoring
-    4) continous testing
+    * proper automation
+    * application quality
+    * continous monitoring
+    * continous testing
 These are the 4 pillers of Devops
 ---
 Why Devops ?
