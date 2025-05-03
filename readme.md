@@ -1,4 +1,8 @@
-# What is Devops ?
+# Reference
+
+* [YouTube](https://www.youtube.com/watch?v=Ou9j73aWgyE&list=PLdpzxOOAlwvIKMhk8WhzN1pYoJ1YU8Csa&index=1)
+
+# What is Devops ? 
 * it is a  process of improving the application delivery by ensuring 
     * proper automation
     * application quality
