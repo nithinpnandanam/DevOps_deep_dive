@@ -1,4 +1,4 @@
-
+# Connect to an instance and AWS CLI
 ---
 * We can connect to an EC2 instance using the UI.
 * a terminal will be available to us in the website
