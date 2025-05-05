@@ -39,7 +39,6 @@
 * write a docker file
 * execute the file and create a docker image
 * execute the image and create a container
-
 * commands are given to the ```docker engine``` which does all this
 --- 
 * docker is so much dependent on docker engine
