@@ -20,7 +20,7 @@
 ---
 * Using AWS CLI
     * go to security credentials >> create access key >> store the access key and password
-    * ```aws configure `` 
+    * ```aws configure ```
     * you set up credentials (AWS Access Key ID, Secret Access Key) in your local machine to interact with AWS services via the AWS CLI.
     ```aws ec2 describe-instances```
     ```aws s3 ls```
