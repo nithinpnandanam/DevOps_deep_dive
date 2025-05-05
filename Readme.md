@@ -27,3 +27,5 @@
     * These commands talk to AWS APIs and control or query AWS resources from your local machine, but they do NOT log you into the instance like SSH
     * Use AWS CLI when you want to list EC2 instances, start/stop them, create new ones, or interact with other AWS services without logging in
 ---
+### Refenece
+* [YouTube](https://www.youtube.com/watch?v=cN4pt5KQ9eA&list=PLdpzxOOAlwvIKMhk8WhzN1pYoJ1YU8Csa&index=7)
